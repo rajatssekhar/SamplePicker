@@ -1,0 +1,256 @@
+TPickerSample
+v7
+r0
+t319009049.976622
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app/Info.plist" PickerSample-Info.plist
+cCompileXIB "/Users/sathish/Documents/iPhone Apps/PickerSample/MainWindow.xib"
+cCompileXIB "/Users/sathish/Documents/iPhone Apps/PickerSample/PickerSampleViewController.xib"
+cProcessPCH /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PickerSample_Prefix-doqfqxlbxensgrdiypbftebigfja/PickerSample_Prefix.pch.gch PickerSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/Objects-normal/i386/main.o "/Users/sathish/Documents/iPhone Apps/PickerSample/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/Objects-normal/i386/PickerSampleAppDelegate.o "/Users/sathish/Documents/iPhone Apps/PickerSample/Classes/PickerSampleAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/Objects-normal/i386/PickerSampleViewController.o "/Users/sathish/Documents/iPhone Apps/PickerSample/Classes/PickerSampleViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app/PickerSample" normal i386
+cGenerateDSYMFile "/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app.dSYM" "/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app/PickerSample"
+cTouch "/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sathish/Documents/iPhone Apps/PickerSample/Classes/PickerSampleAppDelegate.h
+c000000004D3CDE5300000000000001F5
+t1295834707
+s501
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Apps/PickerSample/Classes/PickerSampleAppDelegate.m
+c000000004D3CDE530000000000000AA6
+t1295834707
+s2726
+i"PickerSampleAppDelegate.h"
+i"PickerSampleViewController.h"
+
+N/Users/sathish/Documents/iPhone Apps/PickerSample/Classes/PickerSampleViewController.h
+c000000004D3D187D0000000000000136
+t1295849597
+s310
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Apps/PickerSample/Classes/PickerSampleViewController.m
+c000000004D3D16D2000000000000093F
+t1295849170
+s2367
+i"PickerSampleViewController.h"
+
+N/Users/sathish/Documents/iPhone Apps/PickerSample/MainWindow.xib
+c000000004D3CDE530000000000004E65
+t1295834707
+s20069
+
+N/Users/sathish/Documents/iPhone Apps/PickerSample/PickerSampleViewController.xib
+c000000004D3D16A000000000000042F7
+t1295849120
+s17143
+
+N/Users/sathish/Documents/iPhone Apps/PickerSample/PickerSample_Prefix.pch
+c000000004D3CDE5300000000000000C1
+t1295834707
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app
+t1295849601
+s238
+
+N/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app.dSYM
+t1295849601
+s102
+
+N/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app/Info.plist
+t1295849599
+s611
+
+N/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app/MainWindow.nib
+t1295849600
+s1133
+
+N/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app/PickerSample
+t1295849601
+s18760
+
+N/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app/PickerSampleViewController.nib
+t1295849600
+s1033
+
+N/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app/PkgInfo
+t1295849599
+s8
+
+N/Users/sathish/Documents/iPhone Apps/PickerSample/build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/Objects-normal/i386/PickerSample.LinkFileList
+c000000004D3D187F00000000000001D6
+t1295849599
+s470
+
+N/Users/sathish/Documents/iPhone Apps/PickerSample/build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/Objects-normal/i386/PickerSampleAppDelegate.o
+t1295849601
+s52048
+
+N/Users/sathish/Documents/iPhone Apps/PickerSample/build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/Objects-normal/i386/PickerSampleViewController.o
+t1295849601
+s44208
+
+N/Users/sathish/Documents/iPhone Apps/PickerSample/build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/Objects-normal/i386/main.o
+t1295849601
+s6324
+
+N/Users/sathish/Documents/iPhone Apps/PickerSample/main.m
+c000000004D3CDE530000000000000166
+t1295834707
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PickerSample_Prefix-doqfqxlbxensgrdiypbftebigfja/PickerSample_Prefix.pch.gch
+t1295849601
+s15453392
+
+NPickerSample-Info.plist
+c000000004D3CDE53000000000000038D
+t1295834707
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319009049#319009049#0(0"0(0#1#0"8617170656#0"0#
+
+CCompileC build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/Objects-normal/i386/PickerSampleAppDelegate.o "/Users/sathish/Documents/iPhone Apps/PickerSample/Classes/PickerSampleAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s317542401.215098
+e317542401.336654
+r1
+xCompileC
+xbuild/PickerSample.build/Debug-iphonesimulator/PickerSample.build/Objects-normal/i386/PickerSampleAppDelegate.o
+x/Users/sathish/Documents/iPhone Apps/PickerSample/Classes/PickerSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/sathish/Documents/iPhone Apps/PickerSample/Classes/PickerSampleAppDelegate.m317542401#317542401#0(0"0(0#0#83"/Users/sathish/Documents/iPhone Apps/PickerSample/Classes/PickerSampleAppDelegate.m8604007968#2203"    cd "/Users/sathish/Documents/iPhone Apps/PickerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Apps/PickerSample/build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/PickerSample-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Apps/PickerSample/build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/PickerSample-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Apps/PickerSample/build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/PickerSample-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Apps/PickerSample/build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/PickerSample-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Apps/PickerSample/build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Apps/PickerSample/build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PickerSample_Prefix-doqfqxlbxensgrdiypbftebigfja/PickerSample_Prefix.pch -c "/Users/sathish/Documents/iPhone Apps/PickerSample/Classes/PickerSampleAppDelegate.m" -o "/Users/sathish/Documents/iPhone Apps/PickerSample/build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/Objects-normal/i386/PickerSampleAppDelegate.o"0#
+
+CCompileC build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/Objects-normal/i386/PickerSampleViewController.o "/Users/sathish/Documents/iPhone Apps/PickerSample/Classes/PickerSampleViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s317542401.309137
+e317542401.390087
+r1
+xCompileC
+xbuild/PickerSample.build/Debug-iphonesimulator/PickerSample.build/Objects-normal/i386/PickerSampleViewController.o
+x/Users/sathish/Documents/iPhone Apps/PickerSample/Classes/PickerSampleViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/sathish/Documents/iPhone Apps/PickerSample/Classes/PickerSampleViewController.m317542401#317542401#0(0"0(0#0#86"/Users/sathish/Documents/iPhone Apps/PickerSample/Classes/PickerSampleViewController.m8623726816#2209"    cd "/Users/sathish/Documents/iPhone Apps/PickerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Apps/PickerSample/build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/PickerSample-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Apps/PickerSample/build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/PickerSample-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Apps/PickerSample/build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/PickerSample-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Apps/PickerSample/build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/PickerSample-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Apps/PickerSample/build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Apps/PickerSample/build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PickerSample_Prefix-doqfqxlbxensgrdiypbftebigfja/PickerSample_Prefix.pch -c "/Users/sathish/Documents/iPhone Apps/PickerSample/Classes/PickerSampleViewController.m" -o "/Users/sathish/Documents/iPhone Apps/PickerSample/build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/Objects-normal/i386/PickerSampleViewController.o"0#
+
+CCompileC build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/Objects-normal/i386/main.o "/Users/sathish/Documents/iPhone Apps/PickerSample/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s317542401.213790
+e317542401.309024
+r1
+xCompileC
+xbuild/PickerSample.build/Debug-iphonesimulator/PickerSample.build/Objects-normal/i386/main.o
+x/Users/sathish/Documents/iPhone Apps/PickerSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/sathish/Documents/iPhone Apps/PickerSample/main.m317542401#317542401#0(0"0(0#0#56"/Users/sathish/Documents/iPhone Apps/PickerSample/main.m8623755904#2157"    cd "/Users/sathish/Documents/iPhone Apps/PickerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Apps/PickerSample/build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/PickerSample-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Apps/PickerSample/build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/PickerSample-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Apps/PickerSample/build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/PickerSample-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Apps/PickerSample/build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/PickerSample-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Apps/PickerSample/build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Apps/PickerSample/build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PickerSample_Prefix-doqfqxlbxensgrdiypbftebigfja/PickerSample_Prefix.pch -c "/Users/sathish/Documents/iPhone Apps/PickerSample/main.m" -o "/Users/sathish/Documents/iPhone Apps/PickerSample/build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/sathish/Documents/iPhone Apps/PickerSample/MainWindow.xib"
+s317542399.632091
+e317542400.084230
+r1
+xCompileXIB
+x/Users/sathish/Documents/iPhone Apps/PickerSample/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib317542399#317542400#0(0"0(0#0#64"/Users/sathish/Documents/iPhone Apps/PickerSample/MainWindow.xib8623394144#614"    cd "/Users/sathish/Documents/iPhone Apps/PickerSample"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app/MainWindow.nib" "/Users/sathish/Documents/iPhone Apps/PickerSample/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/sathish/Documents/iPhone Apps/PickerSample/PickerSampleViewController.xib"
+s317542399.632813
+e317542400.092730
+r1
+xCompileXIB
+x/Users/sathish/Documents/iPhone Apps/PickerSample/PickerSampleViewController.xib
+lSLF07#2@41"CompileXIB PickerSampleViewController.xib317542399#317542400#0(0"0(0#0#80"/Users/sathish/Documents/iPhone Apps/PickerSample/PickerSampleViewController.xib8622860352#646"    cd "/Users/sathish/Documents/iPhone Apps/PickerSample"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app/PickerSampleViewController.nib" "/Users/sathish/Documents/iPhone Apps/PickerSample/PickerSampleViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile "/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app.dSYM" "/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app/PickerSample"
+s317542401.414476
+e317542401.432175
+r1
+xGenerateDSYMFile
+x/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app.dSYM
+x/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app/PickerSample
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/PickerSample.app.dSYM build/Debug-iphonesimulator/PickerSample.app/PickerSample317542401#317542401#0(0"0(0#0#107"/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app/PickerSample8619387488#437"    cd "/Users/sathish/Documents/iPhone Apps/PickerSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app/PickerSample" -o "/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app.dSYM"0#
+
+CLd "/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app/PickerSample" normal i386
+s317542401.390183
+e317542401.414369
+r1
+xLd
+x/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app/PickerSample
+xnormal
+xi386
+lSLF07#2@112"Link /Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app/PickerSample317542401#317542401#0(0"0(0#0#0"8620032896#990"    cd "/Users/sathish/Documents/iPhone Apps/PickerSample"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator" "-F/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator" -filelist "/Users/sathish/Documents/iPhone Apps/PickerSample/build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/Objects-normal/i386/PickerSample.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app/PickerSample"0#
+
+CProcessInfoPlistFile "/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app/Info.plist" PickerSample-Info.plist
+s317542399.626467
+e317542399.632000
+r1
+xProcessInfoPlistFile
+x/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app/Info.plist
+xPickerSample-Info.plist
+lSLF07#2@31"Process PickerSample-Info.plist317542399#317542399#0(0"0(0#0#73"/Users/sathish/Documents/iPhone Apps/PickerSample/PickerSample-Info.plist8599129856#533"    cd "/Users/sathish/Documents/iPhone Apps/PickerSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility PickerSample-Info.plist -genpkginfo "/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app/Info.plist"0#
+
+CProcessPCH /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PickerSample_Prefix-doqfqxlbxensgrdiypbftebigfja/PickerSample_Prefix.pch.gch PickerSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s317542400.092850
+e317542401.213529
+r1
+xProcessPCH
+x/var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PickerSample_Prefix-doqfqxlbxensgrdiypbftebigfja/PickerSample_Prefix.pch.gch
+xPickerSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile PickerSample_Prefix.pch317542400#317542401#0(0"0(0#0#73"/Users/sathish/Documents/iPhone Apps/PickerSample/PickerSample_Prefix.pch8624385920#2031"    cd "/Users/sathish/Documents/iPhone Apps/PickerSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Apps/PickerSample/build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/PickerSample-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Apps/PickerSample/build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/PickerSample-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Apps/PickerSample/build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/PickerSample-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Apps/PickerSample/build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/PickerSample-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Apps/PickerSample/build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Apps/PickerSample/build/PickerSample.build/Debug-iphonesimulator/PickerSample.build/DerivedSources" -c "/Users/sathish/Documents/iPhone Apps/PickerSample/PickerSample_Prefix.pch" -o /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PickerSample_Prefix-doqfqxlbxensgrdiypbftebigfja/PickerSample_Prefix.pch.gch0#
+
+CTouch "/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app"
+s317542401.432267
+e317542401.435426
+r1
+xTouch
+x/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app
+lSLF07#2@100"Touch /Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app317542401#317542401#0(0"0(0#0#0"8619217184#309"    cd "/Users/sathish/Documents/iPhone Apps/PickerSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sathish/Documents/iPhone Apps/PickerSample/build/Debug-iphonesimulator/PickerSample.app"0#
+
